@@ -1,4 +1,4 @@
-# MLT_PROJECT
+# Event Footfall Dectecction using ML
 This repository contains a Python notebook for a machine learning project that predicts event attendees based on registration forms.
 
 # Overview
